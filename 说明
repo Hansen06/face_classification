@@ -1,0 +1,1 @@
+基于 Keras CNN 模型与 OpenCV 的实时面部检测和表情/性别分类，训练与 fer2013/imdb 数据集
